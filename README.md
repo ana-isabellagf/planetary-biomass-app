@@ -74,6 +74,20 @@ This will:
 
 ---
 
+## Application Preview
+
+Here’s a quick visual overview of the biomass analysis app:
+
+<p align="center">
+  <img src="outputs/preview_app1.png" alt="Upload shapefile and info" width="700"/><br/>
+  <img src="outputs/preview_app2.png" alt="Map view of the AOI" width="700"/><br/>
+  <img src="outputs/preview_app3.png" alt="Biomass time series plot" width="700"/>
+</p>
+
+From uploading your shapefile, to seeing spatial overlays, and viewing biomass trends — the app guides you through it all.
+
+---
+
 ## Data Sources
 
 - **Microsoft Planetary Computer** — [Chloris-biomass](https://planetarycomputer.microsoft.com/dataset/chloris-biomass)
