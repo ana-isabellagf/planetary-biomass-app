@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+geopandas
+rioxarray
+pystac-client
+planetary-computer
+streamlit
+streamlit-folium
+folium
+matplotlib
+xarray
+shapely
+numpy
+pandas
