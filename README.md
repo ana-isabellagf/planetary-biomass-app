@@ -76,7 +76,7 @@ This will:
 
 ## Data Sources
 
-- **Microsoft Planetary Computer** — [Chloris-biomass](https://planetarycomputer.microsoft.com/catalog/chloris-biomass)
+- **Microsoft Planetary Computer** — [Chloris-biomass](https://planetarycomputer.microsoft.com/dataset/chloris-biomass)
 - **PostGIS** — Spatial layers: countries, protected areas, ecological zones
 
 > The Chloris biomass data is accessed under the Planetary Computer terms of use and is subject to the license terms of the respective dataset providers.
